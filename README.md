@@ -20,10 +20,12 @@ Top -tiedoston loin seuraavalla komennolla
 sudo nano /srv/salt/top.sls
 ```
 .. ja tarkistin että top.sls näkyy toivotulla tavalla.
+
 ![ls top sls](https://github.com/JohannaLap/h4-demoni/assets/165195836/6adb2050-1370-4bf0-bba4-9a10b4771111)
 
 c) Apache easy mode
 Varmistin, että Apache2 on aktiivinen
+
 ![apache active](https://github.com/JohannaLap/h4-demoni/assets/165195836/d158aa8c-1472-42e4-be5c-9236e7f8d100)
 
 ```bash
